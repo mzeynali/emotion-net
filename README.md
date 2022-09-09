@@ -2,6 +2,8 @@
 
 Landmark, emotion, valence, and arousal prediction.
 
+![plot](./images/Valence_Arousal.png)
+
 
 ## Installation
 This package works standalone if you want to process some normalized face in the proper way. But best solution is to use [face_tractor]() to extract the face bounding and ther feed it `EmotionNet` class. In this way `preprocess_emonet` function will be called automatically and you will get the normalized face. So we recommend to install `face_tractor` :

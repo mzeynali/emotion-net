@@ -9,7 +9,6 @@ __pycache__/
 *.pt
 *.h5
 *.tf
-*.png
 *.jpg
 *.pkl
 runs/
